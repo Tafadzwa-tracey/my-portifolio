@@ -1,0 +1,36 @@
+.{
+  height:100%;
+  width:100%;
+  padding:0;
+  margin:0;
+
+}
+
+.cover-background {
+height:600px;
+background : #CC6600;
+background: linear-gradient(
+  to bottom left,
+  rgba(225,0,0,0.3),
+  rgba(255,0,0,0.4) 50%,
+  rgba(24,24,24,0.5) 50%,
+  rgba(24,24,24,0.4)) ,url('library.jpg') no-repeat ;
+background-size: cover;
+position: relative;
+
+}
+
+.cover-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+button{
+  background-color:black;
+}
+h1{
+  font-size: 50px
+}
