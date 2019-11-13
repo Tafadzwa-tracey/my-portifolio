@@ -13,7 +13,7 @@ height:800px;
   rgba(225,0,0,0.64),
   rgba(255,0,0,0.64) 50%,
   rgba(12,10,54,0.64) 50%,
-  rgba(12,10,54,0.64)),url('library.jpg') no-repeat ; 
+  rgba(12,10,54,0.64)),url('library.jpg') no-repeat ;
  /* background-image: url('background.png');*/
 background-size: cover;
 position: relative;
