@@ -8,13 +8,13 @@
 
 .cover-background {
 height:800px;
-/* background: linear-gradient(
+ background: linear-gradient(
   to top left,
   rgba(225,0,0,0.64),
   rgba(255,0,0,0.64) 50%,
   rgba(12,10,54,0.64) 50%,
-  rgba(12,10,54,0.64)),url('eddy.jpg') no-repeat ; */
-  background-image: url('background.png');
+  rgba(12,10,54,0.64)),url('eddy.jpg') no-repeat ; 
+  /*background-image: url('background.png');*/
 background-size: cover;
 position: relative;
 }
