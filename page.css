@@ -57,3 +57,15 @@ p{
   display:inline-table;
   margin-left:300px;
 }
+.cover-background {
+height:800px;
+ background: linear-gradient(
+  to top left,
+  rgba(225,0,0,0.5),
+  rgba(255,0,0,0.5) 50%,
+  rgba(12,10,54,0.7) 50%,
+  rgba(12,10,54,0.7));
+ /* background-image: url('background.png');*/
+background-size: cover;
+position: relative;
+}
